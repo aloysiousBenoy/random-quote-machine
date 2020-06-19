@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+    max-width: 100%;
+    background: linear-gradient(95deg,darkred, purple);
+}
+.card{
+    background-color: beige;
+    box-shadow: 5px 5px 8px black;
+}
