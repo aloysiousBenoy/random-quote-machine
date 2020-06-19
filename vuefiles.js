@@ -1,5 +1,3 @@
-const qsource=require("quote");
-
 var q = 0;
 var r = 0;
 new Vue({
